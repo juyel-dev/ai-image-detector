@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: #111;
+    color: white;
+}
+
+#dropzone {
+    margin: 40px auto;
+    padding: 40px;
+    border: 2px dashed #888;
+    width: 300px;
+}
